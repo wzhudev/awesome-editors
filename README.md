@@ -14,6 +14,10 @@
 
 ### CRDT
 
+- [Automerge](https://github.com/automerge/automerge)
+- **[yjs](https://github.com/yjs)**. A CRDT algorithm by Kevin Jahns. It has a relatively large community.
+- [Loro](https://github.com/loro-dev)
+
 ## Typography
 
 ## Performance
