@@ -1,5 +1,7 @@
 # Awesome Editor
 
+> An opinionated list of knowledge around editors. PR is not accepted currently. Thanks :)
+
 ## Architecture
 
 - AppFlowy: [How we built Appflowy with Flutter and Rust (blog-appflowy.ghost.io)](https://blog-appflowy.ghost.io/tech-design-flutter-rust/)
@@ -18,17 +20,13 @@
 
 ## Programming Language
 
-## Developes 
-
-> Blogs, YouTube Channels, Twitters etc.
-
-## Editors 
+## Editors
 
 ### OSS
 
 #### Notion-like
 
-- [Affine](https://github.com/affine)
+- [AFFiNE](https://github.com/affine)
 
 #### Code Editor
 
@@ -36,7 +34,19 @@
 
 ### Commercial
 
+#### Office
+
+#### Notion-like
+
+#### Graphic
+
+## Books
+
+## Developes
+
 ## Miscellaneous
+
+> Blogs, YouTube Channels, Twitters etc.
 
 ---
 
