@@ -1,4 +1,4 @@
-# Awesome Editor
+# Awesome Editors
 
 > An opinionated list of knowledge around editors. PR is not accepted currently. Thanks :)
 
@@ -40,13 +40,16 @@
 
 #### Graphic
 
-## Books
+## Resources 
 
-## Developes
+### Books
+
+### Developers
+
+> Blogs, YouTube Channels, Twitters etc.
 
 ## Miscellaneous
 
-> Blogs, YouTube Channels, Twitters etc.
 
 ---
 
